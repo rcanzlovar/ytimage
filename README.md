@@ -1,6 +1,6 @@
 # ytimage
 
-##Download a high-quality version of a youtube video thumbnail.
+## Download a high-quality version of a youtube video thumbnail.
 
 Attempt to get maxresdefault.jpg but if that doesn't work, get the next best copy hqdefault.jpg
 
