@@ -2,6 +2,12 @@
 
 ## Download a high-quality version of a youtube video thumbnail.
 
+YouTube thumbnails are often beautiful images in their own right, and you might
+want to download one for a wallpaper. If you munge throug the HTML from a 
+youtube page, you can find the file, usually called maxresdefault.jpg and 
+then download it by a normal web browser. This script automates this, allowing
+you to just pass in the URL of the youtube video. 
+
 Attempt to get maxresdefault.jpg but if that doesn't work, get the next best copy hqdefault.jpg
 
 ```
